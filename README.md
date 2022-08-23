@@ -1,2 +1,2 @@
-# Exercicio_FinTech_OO
+# Projeto em OO
 Exercício de Orientação Objeto 
